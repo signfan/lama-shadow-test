@@ -1,0 +1,4 @@
+# @package _group_
+data_root_dir: C:/lama/my_dataset/
+out_root_dir: C:/lama/experiments/
+tb_dir: C:/lama/tb_logs/
